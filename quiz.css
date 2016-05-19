@@ -1,0 +1,20 @@
+.card {		border: 1px solid lightgray;
+		width: 30%;}
+.card h1 {	border: 1px dotted lightgray;
+	 	text-align:center;
+	 	margin-top:0;}
+.card img {	width:100%;}
+.description{	text-align:justify;}
+.availability{	color:yellow;
+		width:100%;
+		background:gray;}
+.specs  {	font-weight:bold;
+		display:block;
+		margin-left:5%;}
+.card h3{	margin:0;
+	 	font-weight:normal;}
+.card h6{	margin:0;
+	 	font-weight:normal;}
+.pricing{ 	font-weight:bold;
+		display:block;
+		margin-left:5%; }
