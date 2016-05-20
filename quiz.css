@@ -15,7 +15,8 @@
 		}
 .description{	text-align:justify;
 		margin-left:2%;
-		margin-right:2%;}
+		margin-right:2%;
+		width:96%;}
 .availability{	color:yellow;
 		width:100%;
 		background:gray;}
@@ -29,3 +30,4 @@
 .pricing{ 	font-weight:bold;
 		display:block;
 		margin-left:5%; }
+body{		font-family:"Arial";}
