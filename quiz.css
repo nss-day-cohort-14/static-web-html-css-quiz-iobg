@@ -1,0 +1,40 @@
+.card {		border: 1px solid lightgray;
+		width: 30%;
+		float:left;
+		margin:1%;
+		box-shadow:5px 5px 5px 5px rgba(0,0,0,0.2);
+		min-height:700px;}
+
+.card h1 {	border: 1px dotted lightblue;
+	 	text-align:center;
+	 	margin-top:0;
+	 	margin-bottom:0;}
+
+.card img{	width:75%;
+		margin-left:12.5%;
+		margin-right:12.5%;}
+		
+.description{	text-align:justify;
+		margin-left:2%;
+		margin-right:2%;
+		width:96%;}
+
+.availability{	color:yellow;
+		width:100%;
+		background:gray;}
+
+.specs {	font-weight:bold;
+		display:block;
+		margin-left:5%;}
+
+.card h3{	margin:0;
+	 	font-weight:normal;}
+
+.card h6{	margin:0;
+	 	font-weight:normal;}
+
+.pricing{ 	font-weight:bold;
+		display:block;
+		margin-left:5%; }
+
+body{		font-family:"Arial";}
